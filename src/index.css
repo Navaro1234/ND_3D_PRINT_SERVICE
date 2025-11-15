@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f4f4f4; /* Lichtgrijze achtergrond */
+  color: #333; /* Donkergrijze tekstkleur */
+}
+
+a {
+  color: #007bff; /* Standaard linkkleur */
+  text-decoration: none; /* Geen onderstreping */
+}
+
+a:hover {
+  text-decoration: underline; /* Onderstreping bij hover */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  background-color: #f8f9fa; /* Lichtgrijze achtergrond voor code */
+  padding: 2px 4px; /* Padding rond de code */
+  border-radius: 4px; /* Ronde hoeken */
+}
